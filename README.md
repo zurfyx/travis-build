@@ -1,3 +1,3 @@
 # travis-build
 
-![](https://api.travis-ci.org/zurfyx/website.svg?branch=master)
+![](https://api.travis-ci.org/zurfyx/travis-build.svg?branch=master)
