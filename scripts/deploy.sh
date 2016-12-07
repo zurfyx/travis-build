@@ -11,7 +11,7 @@ fi
 
 rev=$(git rev-parse --short HEAD)
 
-cd dist
+cd build
 
 git init
 git config user.name "Travis CI"
