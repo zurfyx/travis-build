@@ -1,7 +1,7 @@
 {
   "name": "travis-build",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "http://zurfyx.github.io/travis-build",
   "devDependencies": {
     "react-scripts": "0.8.2"
   },
