@@ -21,7 +21,7 @@ git remote add upstream "https://$GH_TOKEN@github.com/zurfyx/travis-build.git"
 git fetch upstream
 git reset upstream/gh-pages
 
-echo "zurfyx.com" > CNAME
+# echo "domain.com" > CNAME
 
 touch .
 
